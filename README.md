@@ -1,8 +1,12 @@
 # Pacman-Console-Application
 
 This is a Pacman game console application created in C++, during a C++ course in The Academic College of Tel Aviv, Yaffo, 2022.
-
 This game allows you to run custom screen files you can create yourself using the file format below.
+
+# Running The Game
+
+1. Download the zip in the [Latest Release](https://github.com/noaliony/Pacman-Console-Application/releases/latest).
+2. Run Pacman.exe by clicking it, or through command line, where you may add command arguments as shown below.
 
 # Command Arguments
 
